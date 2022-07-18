@@ -2,7 +2,7 @@
   "name": "vscode-master-extension-pack",
   "displayName": "vscode master extension pack",
   "description": "Useful extensions for vscode masters",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "arskiir",
   "repository": {
     "type": "git",
@@ -65,6 +65,8 @@
     "shardulm94.trailing-spaces",
     "lihui.vs-color-picker",
     "ms-vscode.wordcount",
-    "tomoki1207.pdf"
+    "tomoki1207.pdf",
+    "xyz.local-history",
+    "mutantdino.resourcemonitor"
   ]
 }
