@@ -50,6 +50,9 @@
         "shardulm94.trailing-spaces",
         "lihui.vs-color-picker",
         "ms-vscode.wordcount",
-        "tomoki1207.pdf"
+        "tomoki1207.pdf",
+        "xyz.local-history",
+        "mutantdino.resourcemonitor",
+        "vsls-contrib.gitdoc"
     ]
 }
