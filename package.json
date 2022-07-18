@@ -1,15 +1,65 @@
 {
-    "name": "vscode-master-extension-pack",
-    "displayName": "vscode master extension pack",
-    "description": "Useful extensions for vscode masters",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.69.0"
-    },
-    "categories": [
-        "Extension Packs"
-    ],
-    "extensionPack": [ 
-        "publisher.extensionName"
-    ]
+  "name": "vscode-master-extension-pack",
+  "displayName": "vscode master extension pack",
+  "description": "Useful extensions for vscode masters",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "patbenatar.advanced-new-file",
+    "steoates.autoimport",
+    "formulahendry.auto-rename-tag",
+    "shalldie.background",
+    "aaron-bond.better-comments",
+    "formulahendry.code-runner",
+    "streetsidesoftware.code-spell-checker",
+    "adpyke.codesnap",
+    "anseki.vscode-color",
+    "kamikillerto.vscode-colorize",
+    "aeschli.vscode-css-formatter",
+    "pranaygp.vscode-css-peek",
+    "mikestead.dotenv",
+    "dbaeumer.vscode-eslint",
+    "brandonfowler.exe-runner",
+    "sleistner.vscode-fileutils",
+    "maixiaojie.git-emoji",
+    "mhutchie.git-graph",
+    "donjayamanne.githistory",
+    "github.copilot",
+    "codezombiech.gitignore",
+    "eamodio.gitlens",
+    "vincaslt.highlight-matching-tag",
+    "ecmel.vscode-html-css",
+    "lokalise.i18n-ally",
+    "antfu.iconify",
+    "oderwat.indent-rainbow",
+    "visualstudioexptteam.vscodeintellicode",
+    "visualstudioexptteam.intellicode-api-usage-examples",
+    "xabikos.javascriptsnippets",
+    "ritwickdey.liveserver",
+    "ms-vsliveshare.vsliveshare",
+    "ms-vsliveshare.vsliveshare-audio",
+    "tyriar.lorem-ipsum",
+    "davidanson.vscode-markdownlint",
+    "codestream.codestream",
+    "quicktype.quicktype",
+    "christian-kohler.path-intellisense",
+    "csstools.postcss",
+    "esbenp.prettier-vscode",
+    "sainoba.px-to-rem",
+    "cipchk.cssrem",
+    "cssho.vscode-svgviewer",
+    "robbowen.synthwave-vscode",
+    "bradlc.vscode-tailwindcss",
+    "meganrogge.template-string-converter",
+    "rangav.vscode-thunder-client",
+    "shardulm94.trailing-spaces",
+    "lihui.vs-color-picker",
+    "ms-vscode.wordcount",
+    "tomoki1207.pdf"
+  ]
 }
