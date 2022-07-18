@@ -1,0 +1,15 @@
+{
+    "name": "vscode-master-extension-pack",
+    "displayName": "vscode master extension pack",
+    "description": "Useful extensions for vscode masters",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "publisher.extensionName"
+    ]
+}
