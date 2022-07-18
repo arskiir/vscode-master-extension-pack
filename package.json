@@ -4,6 +4,10 @@
   "description": "Useful extensions for vscode masters",
   "version": "0.0.1",
   "publisher": "arskiir",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arskiir/vscode-master-extension-pack.git"
+  },
   "engines": {
     "vscode": "^1.69.0"
   },
